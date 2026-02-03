@@ -1,2 +1,2 @@
 # HOUSE-PRICE-MARKET-ANALYSIS-IN-PAKISTAN
-HOUSE PRICE MARKET ANALYSIS IN PAKISTAN
+Our project, “House Price Market Analysis in Pakistan”, focuses on understanding and predicting property prices in major Pakistani cities such as Karachi, Lahore, and Islamabad. Housing markets in these cities show large price variations due to differences in location, property size, number of rooms, house age, and neighborhood quality. Because of these variations, buyers and investors often find it difficult to estimate fair property prices.
